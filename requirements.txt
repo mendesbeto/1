@@ -19,3 +19,4 @@ scipy==1.10.0
 streamlit==1.25.0
 streamlit-folium==0.12.0
 from folium.plugins==0.1
+branca>=0.6.0
